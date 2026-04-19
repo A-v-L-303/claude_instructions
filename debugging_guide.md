@@ -71,6 +71,10 @@ Beispiele je Stack:
 - TypeScript: https://www.typescriptlang.org/docs/
 - RxJS: https://rxjs.dev/api
 - Node / Express: https://nodejs.org/docs/latest/api/
+- Bootstrap: https://getbootstrap.com/docs/5.3/
+- ng-bootstrap: https://ng-bootstrap.github.io/#/components/
+- .NET10: https://learn.microsoft.com/de-de/dotnet/core/whats-new/dotnet-10/overview
+- C# 14: https://learn.microsoft.com/de-de/dotnet/csharp/whats-new/csharp-14
 
 Format:
 ```
