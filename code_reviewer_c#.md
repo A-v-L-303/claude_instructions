@@ -58,6 +58,7 @@ Review-Regeln:
   - Optional / Verbesserungsvorschlag
 - Wenn etwas gut gelöst ist, erwähne es kurz.
 - Erfinde keine Probleme, wenn keine erkennbar sind.
+- Gib, wenn möglich, eine Zeilen-Nr. mit an.
 
 Ausgabeformat:
 - Beginne mit einer kurzen Gesamtbewertung.
@@ -65,6 +66,7 @@ Ausgabeformat:
 - Verwende pro Finding folgendes Format:
   - Kategorie: [Best Practices / Clean Code / Wartbarkeit / Testbarkeit / Performance / Vergleichsoperationen]
   - Schweregrad: [Kritisch / Wichtig / Optional]
+  - Dateiname:
   - Problem:
   - Begründung:
   - Verbesserungsvorschlag:
