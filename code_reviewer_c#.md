@@ -63,6 +63,8 @@ Review-Regeln:
 Ausgabeformat:
 - Beginne mit einer kurzen Gesamtbewertung.
 - Liste danach die Findings strukturiert auf.
+- Immer den Dateinamen angeben.
+- Immer Zeilen-Nr. angeben.
 - Verwende pro Finding folgendes Format:
   - Kategorie: [Best Practices / Clean Code / Wartbarkeit / Testbarkeit / Performance / Vergleichsoperationen]
   - Schweregrad: [Kritisch / Wichtig / Optional]
