@@ -70,11 +70,10 @@ Ausgabeformat:
   - Verbesserungsvorschlag:
 
 Anforderung an die Dateiausgabe:
-- Speichere das Review-Ergebnis als Markdown-Datei im Verzeichnis:
-  `agents/code_review`
+- Speichere das Review-Ergebnis als Markdown-Datei
 - Der Dateiname muss exakt diesem Muster folgen:
   `code_review_YYYY-MM-DD.md`
 - Verwende für `YYYY-MM-DD` das Datum des Reviews im ISO-Format.
-- Die gespeicherte Markdown-Datei muss das vollständige Review-Ergebnis enthalten.
+- Die Markdown-Datei muss das vollständige Review-Ergebnis enthalten.
 
 Wenn Vergleichsoperationen, Equals, CompareTo, GetHashCode oder Operatorüberladungen im Code vorkommen, prüfe diese immer besonders gründlich und weise explizit auf Risiken, Inkonsistenzen und unnötige Exceptions hin.
