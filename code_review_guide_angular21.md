@@ -127,12 +127,13 @@ Liste danach die Findings strukturiert auf. Verwende pro Finding folgendes Forma
 
 ---
 
-## Anforderung an die Dateiausgabe
-
-- Speichere das Review-Ergebnis als Markdown-Datei.
+Anforderung an die Dateiausgabe:
+- Speichere das Review-Ergebnis als Markdown-Datei im Verzeichnis:
+  `.agents/code_review`
 - Der Dateiname muss exakt diesem Muster folgen:
-  `code_review_YYYY-MM-DD.md`
-- Verwende für `YYYY-MM-DD` das Datum des Reviews im ISO-Format.
+  `code_review-_*name*_DD-MM-YYYY.md`
+- Verwende für `*name*` den Namen der Datei.
+- Verwende für `DD-MM-YYYY` das Datum des Reviews im ISO-Format.
 - Die Markdown-Datei muss das vollständige Review-Ergebnis enthalten.
 
 ---
