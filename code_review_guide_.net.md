@@ -83,3 +83,14 @@ Anforderung an die Dateiausgabe:
 - Die Markdown-Datei muss das vollständige Review-Ergebnis enthalten.
 
 Wenn Vergleichsoperationen, Equals, CompareTo, GetHashCode oder Operatorüberladungen im Code vorkommen, prüfe diese immer besonders gründlich und weise explizit auf Risiken, Inkonsistenzen und unnötige Exceptions hin.
+
+nach abgeschlossener Codereview, stelle folgende Frage: `Soll ich die festgestellten Probleme fixen?`
+Antwort mit J oder N
+Bei Abtwort N: die Aktion ist beendet.
+Bei Antwort J:
+Frage: `Was soll gefixt werden?`
+
+Mögliche Antworten:
+1 - Alle Probleme fixen
+2 - Nur kritische & Wichtig fixen
+3 - Nur kritische fixen
